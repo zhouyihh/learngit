@@ -1,1 +1,1 @@
-dit is a version contiol system.
+dit is a vdistributed contiol system.
